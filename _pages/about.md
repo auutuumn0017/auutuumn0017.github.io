@@ -1,18 +1,21 @@
 ---
 permalink: /
 title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<span id='about-me'></span>
+<span class='anchor' id='about-me'></span>
+
 # 👋 About Me
 
 Hi! My name is Ai Yang. I am an undergraduate student in Data Science and Big Data Technology at **Hebei University of Technology**. My research focuses on making deep learning models more efficient and applicable to real-world scenarios, particularly in **Graph Neural Networks (GNN)** and **Industrial Computer Vision**.
 
-<span id='education'></span>
+<span class='anchor' id='education'></span>
+
 # 📖 Education
 
 * *2023.09 - Present*: Undergraduate student at **Hebei University of Technology**.
@@ -20,7 +23,8 @@ Hi! My name is Ai Yang. I am an undergraduate student in Data Science and Big Da
   * **Rank**: 1 / 65 (Rank 1st in Major)
   * **Core Courses**: Probability and Statistics (100), Advanced Algebra I (99), Object-Oriented Programming (95), Algorithm Design and Analysis (95).
 
-<span id='publications'></span>
+<span class='anchor' id='publications'></span>
+
 # 📝 Preprints and Publications
 
 **FA-EfficientAD: Foreground-Aware Localization and Adaptive Thresholding for Industrial Anomaly Detection**
@@ -31,7 +35,8 @@ Hi! My name is Ai Yang. I am an undergraduate student in Data Science and Big Da
 * *In Preparation, Expected 3rd Author*
 * Systematically investigated literature on GNN efficiency strategies (pruning, sampling, etc.) to address computational complexity and large-scale graph data bottlenecks. Independently reviewed over 200 core papers and constructed a multi-dimensional classification matrix.
 
-<span id='projects'></span>
+<span class='anchor' id='projects'></span>
+
 # 💻 Research & Projects
 
 * *2026.04*: **Knowledge Card Application**
@@ -39,7 +44,8 @@ Hi! My name is Ai Yang. I am an undergraduate student in Data Science and Big Da
 * *2025.12*: **Smart Inspection Robot for Fire Monitoring**
   * Core member. Integrated YOLOv5 with D-S evidence theory for multi-modal fire perception, reducing false alarm rates in complex logistics environments by 60%.
 
-<span id='honors'></span>
+<span class='anchor' id='honors'></span>
+
 # 🎖 Honors and Awards
 
 * *2025.10* **National Scholarship** (2024-2025 Academic Year)
