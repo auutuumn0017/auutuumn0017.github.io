@@ -12,15 +12,16 @@ redirect_from:
 
 # 👋 About Me
 
-Hi! My name is Ai Yang. I am an undergraduate student in Data Science and Big Data Technology at **Hebei University of Technology**. My research focuses on making deep learning models more efficient and applicable to real-world scenarios, particularly in **Graph Neural Networks (GNN)** and **Industrial Computer Vision**.
+Hi!👋 My name is Ai Yang. I am a third-year undergraduate student majoring in Data Science and Big Data Technology at the School of Artificial Intelligence, Hebei University of Technology. My research interests include Large Language Models (LLMs), Graph Neural Networks (GNN), and Computer Vision (CV). ‼️ I am actively seeking 2026 Summer Camps and straight-to-PhD programs at top-tier universities for Fall 2027 entry. If you are interested in my research profile, I would be thrilled to connect.
 
 <span class='anchor' id='education'></span>
 
 # 📖 Education
 
 * *2023.09 - Present*: Undergraduate student at **Hebei University of Technology**.
-  * **GPA**: 3.88 / 4.0 
-  * **Rank**: 1 / 65 (Rank 1st in Major)
+  * **GPA**: 3.87 / 4.0 
+  * **Rank**: 1 / 65
+  * **Honors**: National Scholarship (2024-2025)
   * **Core Courses**: Probability and Statistics (100), Advanced Algebra I (99), Object-Oriented Programming (95), Algorithm Design and Analysis (95).
 
 <span class='anchor' id='publications'></span>
