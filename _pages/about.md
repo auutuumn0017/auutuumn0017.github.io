@@ -84,5 +84,5 @@ Hi!👋 My name is Ai Yang. I am a third-year undergraduate student majoring in 
     * 组织并带领班级成员深入开展多项社会实践调研，具备扎实的团队统筹、跨群体沟通与现场执行能力。
 
 <div align="center">
-  <img src="images/实践.png" alt="实践" width="80%">
+  <img src="images/实践.png" alt="实践" width="68%">
 </div>
