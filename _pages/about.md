@@ -52,13 +52,18 @@ Hi!👋 My name is Ai Yang. I am a third-year undergraduate student majoring in 
 </div>
 
 <span class='anchor' id='projects'></span>
-
 # 💻 Research and Projects
 
-* *2026.04*: **Knowledge Card Application**
-  * Developed a mobile application utilizing LoRA fine-tuning on the Qwen 2.5-0.5B model for intelligent text summarization and knowledge extraction.
-* *2025.12*: **Smart Inspection Robot for Fire Monitoring**
-  * Core member. Integrated YOLOv5 with D-S evidence theory for multi-modal fire perception, reducing false alarm rates in complex logistics environments by 60%.
+* *2026.04*: **知识卡片 App (Knowledge Card Application)**
+  * 基于 Qwen2.5-0.5B 模型进行 LoRA 微调，开发了一款用于智能文本摘要和知识结构化提取的移动端应用程序。
+
+* *2025.12*: **FMAES 智慧巡检机器人-火情监测系统** *(核心成员)*
+  * 项目研发了一款基于多模态融合感知与“云-边-端”三层协同架构的物流仓储消防机器人。系统通过集成深度学习算法与轨道巡检方式，实现了仓储空间火灾的精准识别、早期预警及智能化闭环管控。
+  * 通过微调 YOLOv5 模型提取视觉特征，并利用 D-S 证据理论融合烟雾与温度数据，解决了复杂环境下单一视觉方案的高误报问题。同时设计了基于时间序列的判定逻辑，通过连续 3 帧 Bel(Fire) > 65% 的准则滤除瞬时噪声，使误报率进一步降低 60%。
+
+<div align="center">
+  <img src="images/计设.png" alt="计设项目图" width="80%">
+</div>
 
 <span class='anchor' id='honors-and-awards'></span>
 
