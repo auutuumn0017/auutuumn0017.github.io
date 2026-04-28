@@ -19,7 +19,7 @@ Hi!👋 My name is Ai Yang. I am a third-year undergraduate student majoring in 
 # 📖 Education
 
 * *2023.09 - Present*: Undergraduate student at **Hebei University of Technology**.
-  * **GPA**: 3.87 / 4.0       * **Rank**: 1 / 65       * **Honors**: National Scholarship (2024-2025)
+* **GPA**: 3.87 / 4.0 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Rank**: 1 / 65 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Honors**: National Scholarship (2024-2025)
   * **Core Courses**: Probability and Statistics (100), Advanced Algebra I (99), Object-Oriented Programming (95), Algorithm Design and Analysis (95).
 
 <span class='anchor' id='publications'></span>
