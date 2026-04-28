@@ -81,6 +81,21 @@ Hi!👋 My name is Ai Yang. I am a third-year undergraduate student majoring in 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/虚拟营造.png' alt="Virtual Construction" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**“虚拟营造”—— 虚拟营造-未来5G+AR智慧文旅领域的领跑者** *(项目负责人)*
+*2024.12*
+
+- 担任项目负责人，广泛调研国内智慧文旅发展现状，撰写完整的项目计划书与申报书。作为学生负责人，长期与指导教师保持沟通对接，负责项目整体进度的把控与汇报工作。
+- 组织并开展针对景区的实地调研，负责调查问卷的设计、分发及多渠道回收。完成 1200 余份问卷的结果统计与数据分析，为项目方案的逻辑支撑提供了坚实的数据基础。
+- 担任项目主讲人，负责该项目的路演展示与答辩工作。通过梳理项目核心竞争力，向评审清晰呈现了技术方案在文旅场景下的应用价值。
+
+</div>
+</div>
+
+
+
 <span class='anchor' id='honors-and-awards'></span>
 
 # 🎖 Honors and Awards
