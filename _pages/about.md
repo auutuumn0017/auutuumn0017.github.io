@@ -51,18 +51,34 @@ Hi!👋 My name is Ai Yang. I am a third-year undergraduate student majoring in 
 </div>
 </div>
 
+
 <span class='anchor' id='projects'></span>
+
+
 # 💻 Research and Projects
 
-* *2026.04*: **知识卡片 App (Knowledge Card Application)**
-  * 基于 Qwen2.5-0.5B 模型进行 LoRA 微调，开发了一款用于智能文本摘要和知识结构化提取的移动端应用程序。
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/知识卡片.png' alt="Knowledge Card" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-* *2025.12*: **FMAES 智慧巡检机器人-火情监测系统** *(核心成员)*
-  * 项目研发了一款基于多模态融合感知与“云-边-端”三层协同架构的物流仓储消防机器人。系统通过集成深度学习算法与轨道巡检方式，实现了仓储空间火灾的精准识别、早期预警及智能化闭环管控。
-  * 通过微调 YOLOv5 模型提取视觉特征，并利用 D-S 证据理论融合烟雾与温度数据，解决了复杂环境下单一视觉方案的高误报问题。同时设计了基于时间序列的判定逻辑，通过连续 3 帧 Bel(Fire) > 65% 的准则滤除瞬时噪声，使误报率进一步降低 60%。
+**知识卡片 App (Knowledge Card Application)**
+*2026.04*
 
-<div align="center">
-  <img src="images/计设.png" alt="计设项目图" width="80%">
+- 基于 Qwen2.5-0.5B 模型进行 LoRA 微调，开发了一款用于智能文本摘要和知识结构化提取的移动端应用程序。
+- 实现了前端与微调后大模型的实时交互，提升了用户在复杂信息环境下的知识摄取效率。
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/计设.png' alt="FMAES Robot" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**FMAES 智慧巡检机器人-火情监测系统** *(核心成员)*
+*2025.12*
+
+- 项目研发了一款基于多模态融合感知与“云-边-端”三层协同架构的物流仓储消防机器人。系统通过集成深度学习算法与轨道巡检方式，实现了仓储空间火灾的精准识别、早期预警及智能化闭环管控。
+- 通过微调 YOLOv5 模型提取视觉特征，并利用 D-S 证据理论融合烟雾与温度数据，解决了复杂环境下单一视觉方案的高误报问题。设计了基于时间序列的判定逻辑，通过连续 3 帧 Bel(Fire) > 65% 的准则滤除瞬时噪声，使误报率进一步降低 60%。
+
+</div>
 </div>
 
 <span class='anchor' id='honors-and-awards'></span>
