@@ -57,9 +57,9 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://space.bilibili.com/360614464?spm_id_from=333.1387.0.0"
+  youtube          : 
   wikipedia        :
-  bilibili         : "https://space.bilibili.com/360614464?spm_id_from=333.1387.0.0"
+  bilibili         : "https://space.bilibili.com/360614464"
 
 # Reading Files
 include:
