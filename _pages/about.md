@@ -19,9 +19,7 @@ Hi!👋 My name is Ai Yang. I am a third-year undergraduate student majoring in 
 # 📖 Education
 
 * *2023.09 - Present*: Undergraduate student at **Hebei University of Technology**.
-  * **GPA**: 3.87 / 4.0 
-  * **Rank**: 1 / 65
-  * **Honors**: National Scholarship (2024-2025)
+  * **GPA**: 3.87 / 4.0       * **Rank**: 1 / 65       * **Honors**: National Scholarship (2024-2025)
   * **Core Courses**: Probability and Statistics (100), Advanced Algebra I (99), Object-Oriented Programming (95), Algorithm Design and Analysis (95).
 
 <span class='anchor' id='publications'></span>
@@ -66,10 +64,10 @@ Hi!👋 My name is Ai Yang. I am a third-year undergraduate student majoring in 
 
 # 🎖 Honors and Awards
 
-- *2025.10* 河北工业大学2024-2025学年, **国家奖学金**、校一等奖学金、校三好学生
-- *2025.08* 第十八届中国大学生计算机设计大赛, 国家三等奖
-- *2025.04* 第三届天津市大学生节能减排社会实践与科技竞赛, 天津市二等奖
-- *2024.10* 河北工业大学2023-2024学年, 校优秀学生干部
+- *2025.10*  河北工业大学2024-2025学年, **国家奖学金**、校一等奖学金、校三好学生
+- *2025.08*  第十八届中国大学生计算机设计大赛, 国家三等奖
+- *2025.04*  第三届天津市大学生节能减排社会实践与科技竞赛, 天津市二等奖
+- *2024.10*  河北工业大学2023-2024学年, 校优秀学生干部
 
 # 🌐 Open Source and Community
 
