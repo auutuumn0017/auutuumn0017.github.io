@@ -38,7 +38,7 @@ Hi!👋 My name is Ai Yang. I am a third-year undergraduate student majoring in 
 
 <span class='anchor' id='projects'></span>
 
-# 💻 Research & Projects
+# 💻 Research and Projects
 
 * *2026.04*: **Knowledge Card Application**
   * Developed a mobile application utilizing LoRA fine-tuning on the Qwen 2.5-0.5B model for intelligent text summarization and knowledge extraction.
@@ -54,7 +54,7 @@ Hi!👋 My name is Ai Yang. I am a third-year undergraduate student majoring in 
 - *2025.04* 第三届天津市大学生节能减排社会实践与科技竞赛, 天津市二等奖
 - *2024.10* 河北工业大学2023-2024学年, 校优秀学生干部
 
-# 🌐 Open Source & Community
+# 🌐 Open Source and Community
 
 * **开源贡献**：
     * 担任知名开源组织 **Datawhale** 助教，负责 AI 知识传播与答疑工作。
