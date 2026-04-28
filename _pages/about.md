@@ -45,15 +45,20 @@ Hi!👋 My name is Ai Yang. I am a third-year undergraduate student majoring in 
 * *2025.12*: **Smart Inspection Robot for Fire Monitoring**
   * Core member. Integrated YOLOv5 with D-S evidence theory for multi-modal fire perception, reducing false alarm rates in complex logistics environments by 60%.
 
-<span class='anchor' id='honors'></span>
+<span class='anchor' id='honors-and-awards'></span>
 
 # 🎖 Honors and Awards
 
-* *2025.10* **National Scholarship** (2024-2025 Academic Year)
-* *2025.08* **National Third Prize**, 18th China Undergraduate Computer Design Contest
-* *2024.10* First-Class University Scholarship & Outstanding Student, HEBUT
+- *2025.10* 河北工业大学2024-2025学年, **国家奖学金**、校一等奖学金、校三好学生
+- *2025.08* 第十八届中国大学生计算机设计大赛, 国家三等奖
+- *2025.04* 第三届天津市大学生节能减排社会实践与科技竞赛, 天津市二等奖
+- *2024.10* 河北工业大学2023-2024学年, 校优秀学生干部
 
 # 🌐 Open Source & Community
 
-* **Tech Blogger**: Actively sharing deep learning tutorials (e.g., "GNN from Beginner to Advanced") on Bilibili and CSDN (Top 49k globally). 
-* **Teaching Assistant**: Served as a TA in the Datawhale open-source community, helping to spread AI knowledge.
+* **开源贡献**：
+    * 担任知名开源组织 **Datawhale** 助教，负责 AI 知识传播与答疑工作。
+    * 持续在 Bilibili 及 CSDN 产出深度学习干货（如《GNN 从入门到进阶》系列），CSDN 全站排名前 4.9w，技术视频累计播放量破千。
+* **学生工作**：
+    * 担任班级班长，除日常组织班会外，依托个人学术优势开展常态化学业辅导，协助同学攻克专业课程难题，营造互助共进的学风氛围。
+    * 组织并带领班级成员深入开展多项社会实践调研，具备扎实的团队统筹、跨群体沟通与现场执行能力。
