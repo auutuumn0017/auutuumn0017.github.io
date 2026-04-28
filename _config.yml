@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Ai Yang's Academic Homepage"
-description              : "Personal Website of Ai Yang, Data Science Undergraduate at Hebei University of Technology."
+description              : "Hebei University of Technology."
 repository               : "auutuumn0017/auutuumn0017.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Ai Yang"
   avatar           : "images/avatar.jpg"
-  bio              : "Undergraduate at Hebei University of Technology"
+  bio              : 
   location         : "Tianjin, China"
   employer         :
   pubmed           : 
@@ -59,6 +59,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  bilibili         : "https://space.bilibili.com/360614464?spm_id_from=333.1387.0.0"
 
 # Reading Files
 include:
