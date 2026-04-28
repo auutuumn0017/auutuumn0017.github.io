@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Ai Yang's Academic Homepage"
-description              : "Hebei University of Technology."
+description              : "Hebei University of Technology"
 repository               : "auutuumn0017/auutuumn0017.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -57,7 +57,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://space.bilibili.com/360614464?spm_id_from=333.1387.0.0"
   wikipedia        :
   bilibili         : "https://space.bilibili.com/360614464?spm_id_from=333.1387.0.0"
 
