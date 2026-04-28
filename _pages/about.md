@@ -69,6 +69,11 @@ Hi!👋 My name is Ai Yang. I am a third-year undergraduate student majoring in 
 - *2025.04*  第三届天津市大学生节能减排社会实践与科技竞赛, 天津市二等奖
 - *2024.10*  河北工业大学2023-2024学年, 校优秀学生干部
 
+<div align="center">
+  <img src="images/奖状.png" alt="奖状" width="80%">
+</div>
+
+
 # 🌐 Open Source and Community
 
 * **开源贡献**：
