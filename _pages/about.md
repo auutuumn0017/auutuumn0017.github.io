@@ -82,3 +82,7 @@ Hi!👋 My name is Ai Yang. I am a third-year undergraduate student majoring in 
 * **学生工作**：
     * 担任班级班长，除日常组织班会外，依托个人学术优势开展常态化学业辅导，协助同学攻克专业课程难题，营造互助共进的学风氛围。
     * 组织并带领班级成员深入开展多项社会实践调研，具备扎实的团队统筹、跨群体沟通与现场执行能力。
+
+<div align="center">
+  <img src="images/实践.png" alt="实践" width="80%">
+</div>
