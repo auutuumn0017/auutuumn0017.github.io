@@ -25,16 +25,33 @@ Hi!👋 My name is Ai Yang. I am a third-year undergraduate student majoring in 
   * **Core Courses**: Probability and Statistics (100), Advanced Algebra I (99), Object-Oriented Programming (95), Algorithm Design and Analysis (95).
 
 <span class='anchor' id='publications'></span>
-
 # 📝 Preprints and Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted</div><img src='images/newFigure1_framework.png' alt="FA-EfficientAD Framework" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 **FA-EfficientAD: Foreground-Aware Localization and Adaptive Thresholding for Industrial Anomaly Detection**
+
 * **Ai Yang (1st Author)**, *Submitted to IEEE SMC 2026 (CCF-C)*
-* Proposed an improved anomaly detection framework for industrial vision based on Otsu algorithm and morphological operations. Designed a category-adaptive threshold strategy, improving image-level AUROC to 99.5% on the MVTec AD dataset.
+
+- 针对工业视觉检测中背景干扰与阈值不稳定问题，提出一种改进的异常检测框架 FA-EfficientAD。基于 Otsu 算法与形态学操作实现免训练的前景提取与最大连通域定位，有效降低背景误检。设计基于分位数统计的类别自适应阈值策略，提升多品类检测鲁棒性。
+- 在 MVTec AD 数据集上进行实验验证，将图像级 AUROC 从 99.1% 提升至 99.5%，方法在异常定位精度与稳定性方面相较 EfficientAD 基线模型取得一致提升。
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Preparation</div><img src='images/gnn.png' alt="GNN Survey" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 **A Comprehensive Survey on Efficient Graph Neural Networks**
+
 * *In Preparation, Expected 3rd Author*
-* Systematically investigated literature on GNN efficiency strategies (pruning, sampling, etc.) to address computational complexity and large-scale graph data bottlenecks. Independently reviewed over 200 core papers and constructed a multi-dimensional classification matrix.
+
+- 针对图神经网络在实际应用中面临的计算复杂度和大规模图数据处理瓶颈，系统性开展了 GNN 高效化策略的文献调研与分类研究。
+- 独立完成 200 余篇核心文献的检索与归纳，从提效策略（如剪枝、采样等）、作用对象、性能提升维度及应用场景四个关键维度，构建了系统性的多维分类矩阵，并设计绘制了综述的核心技术架构图，为该综述的整体逻辑框架搭建奠定了基础。
+
+</div>
+</div>
 
 <span class='anchor' id='projects'></span>
 
