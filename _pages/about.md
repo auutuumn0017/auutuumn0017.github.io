@@ -49,7 +49,8 @@ Hi!👋 My name is Ai Yang. I am a third-year undergraduate student majoring in 
 # 💻 Research and Projects
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/知识卡片.png' alt="Knowledge Card" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**知识卡片 App (Knowledge Card Application)**
+  
+**ZhiCard-基于LoRA微调的知识卡片生成与智能复习微信小程序**
 *2026.04*
 - 基于 Qwen2.5-0.5B-Instruct 模型进行 LoRA 微调，开发了一款用于智能文本摘要和知识结构化提取的移动端应用程序。
 - 独立构建并标注了 500 余条高质量知识条目数据集，针对性优化模型在特定垂直领域的语义理解能力。
