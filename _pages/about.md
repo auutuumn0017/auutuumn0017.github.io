@@ -50,7 +50,7 @@ Hi!👋 My name is Ai Yang. I am a third-year undergraduate student majoring in 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/知识卡片.png' alt="Knowledge Card" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-**ZhiCard-基于LoRA微调的知识卡片生成与智能复习微信小程序**
+**ZhiCard —— 基于LoRA微调的知识卡片生成与智能复习微信小程序**
 *2026.04*
 - 基于 Qwen2.5-0.5B-Instruct 模型进行 LoRA 微调，开发了一款用于智能文本摘要和知识结构化提取的移动端应用程序。
 - 独立构建并标注了 500 余条高质量知识条目数据集，针对性优化模型在特定垂直领域的语义理解能力。
@@ -62,7 +62,7 @@ Hi!👋 My name is Ai Yang. I am a third-year undergraduate student majoring in 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/计设.png' alt="FMAES Robot" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-**FMAES 智慧巡检机器人-火情监测系统** *(核心成员)*
+**FMAES 智慧巡检机器人—— 火情监测系统** *(核心成员)*
 *2025.08*
 - 项目研发了一款基于多模态融合感知与“云-边-端”三层协同架构的物流仓储消防机器人。系统通过集成深度学习算法与轨道巡检方式，实现了仓储空间火灾的精准识别、早期预警及智能化闭环管控。
 - 通过微调 YOLOv5 模型提取视觉特征，并利用 D-S 证据理论融合烟雾与温度数据，解决了复杂环境下单一视觉方案的高误报问题。设计了基于时间序列的判定逻辑，通过连续 3 帧 Bel(Fire) > 65% 的准则滤除瞬时噪声，使误报率进一步降低 60%。
