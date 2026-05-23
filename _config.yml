@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Ai Yang's Homepage"
+title                    : "Yang Ai's Homepage"
 description              : "Hebei University of Technology"
 repository               : "auutuumn0017/auutuumn0017.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Ai Yang"
+  name             : "Yang Ai"
   avatar           : "images/avatar.jpg"
   bio              : 
   location         : "Tianjin, China"
