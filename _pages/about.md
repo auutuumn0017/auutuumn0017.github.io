@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
-# 👋 About Me![Uploading image.png…]()
+# 👋 About Me!
 
 
 Hi!👋 My name is Yang Ai. I am a third-year undergraduate student majoring in Data Science and Big Data Technology at the School of Artificial Intelligence, Hebei University of Technology. My research interests include Large Language Models (LLMs), Graph Neural Networks (GNN), and Computer Vision (CV). ‼️ I am actively seeking 2026 Summer Camps and straight-to-PhD programs at top-tier universities for Fall 2027 entry. If you are interested in my research profile, I would be thrilled to connect.
