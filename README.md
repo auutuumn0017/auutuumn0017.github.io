@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# Welcome to Ai Yang's Homepage! 👋
+# Welcome to Yang Ai's Homepage! 👋
 
-Hi! My name is Ai Yang (艾洋). I am an undergraduate student majoring in Data Science and Big Data Technology at **Hebei University of Technology** (a "211" and "Double First-Class" university). 
+Hi! My name is Yang Ai (艾洋). I am an undergraduate student majoring in Data Science and Big Data Technology at **Hebei University of Technology** (a "211" and "Double First-Class" university). 
 
 My research interests mainly lie in **Artificial Intelligence**, specifically focusing on **Graph Neural Networks (GNN)** and **Computer Vision (CV)** for industrial and medical applications.
 
