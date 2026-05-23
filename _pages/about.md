@@ -9,9 +9,10 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
-# 👋 About Me
+# 👋 About Me![Uploading image.png…]()
 
-Hi!👋 My name is Ai Yang. I am a third-year undergraduate student majoring in Data Science and Big Data Technology at the School of Artificial Intelligence, Hebei University of Technology. My research interests include Large Language Models (LLMs), Graph Neural Networks (GNN), and Computer Vision (CV). ‼️ I am actively seeking 2026 Summer Camps and straight-to-PhD programs at top-tier universities for Fall 2027 entry. If you are interested in my research profile, I would be thrilled to connect.
+
+Hi!👋 My name is Yang Ai. I am a third-year undergraduate student majoring in Data Science and Big Data Technology at the School of Artificial Intelligence, Hebei University of Technology. My research interests include Large Language Models (LLMs), Graph Neural Networks (GNN), and Computer Vision (CV). ‼️ I am actively seeking 2026 Summer Camps and straight-to-PhD programs at top-tier universities for Fall 2027 entry. If you are interested in my research profile, I would be thrilled to connect.
 
 
 <span class='anchor' id='education'></span>
@@ -28,7 +29,7 @@ Hi!👋 My name is Ai Yang. I am a third-year undergraduate student majoring in 
 <div class='paper-box-text' markdown="1">
 
 **FA-EfficientAD: Foreground-Aware Localization and Adaptive Thresholding for Industrial Anomaly Detection**
-* **Ai Yang (1st Author)**, *Submitted to IEEE SMC 2026 (CCF-C)*
+* **Yang Ai (1st Author)**, *Submitted to IEEE SMC 2026 (CCF-C)*
 - 针对工业视觉检测中背景干扰与阈值不稳定问题，提出一种改进的异常检测框架 FA-EfficientAD。基于 Otsu 算法与形态学操作实现免训练的前景提取与最大连通域定位，有效降低背景误检。设计基于分位数统计的类别自适应阈值策略，提升多品类检测鲁棒性。
 - 在 MVTec AD 数据集上进行实验验证，将图像级 AUROC 从 99.1% 提升至 99.5%，方法在异常定位精度与稳定性方面相较 EfficientAD 基线模型取得一致提升。
 </div>
