@@ -25,11 +25,11 @@ Hi!👋 My name is Yang Ai. I am a third-year undergraduate student majoring in 
 <span class='anchor' id='publications'></span>
 # 📝 Preprints and Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted</div><img src='images/newFigure1_framework.png' alt="FA-EfficientAD Framework" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Accepted</div><img src='images/newFigure1_framework.png' alt="FA-EfficientAD Framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **FA-EfficientAD: Foreground-Aware Localization and Adaptive Thresholding for Industrial Anomaly Detection**
-* **Yang Ai (1st Author)**, *Submitted to IEEE SMC 2026 (CCF-C)*
+* **Yang Ai (1st Author)**, *Accepted by IEEE SMC 2026 (CCF-C)*
 - 针对工业视觉检测中背景干扰与阈值不稳定问题，提出一种改进的异常检测框架 FA-EfficientAD。基于 Otsu 算法与形态学操作实现免训练的前景提取与最大连通域定位，有效降低背景误检。设计基于分位数统计的类别自适应阈值策略，提升多品类检测鲁棒性。
 - 在 MVTec AD 数据集上进行实验验证，将图像级 AUROC 从 99.1% 提升至 99.5%，方法在异常定位精度与稳定性方面相较 EfficientAD 基线模型取得一致提升。
 </div>
